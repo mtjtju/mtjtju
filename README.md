@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Mtj
-- 👀 I’m interested in Java/Python/c++
-- 🌱 I’m currently learning c++ and CAD development
-- 💞️ I’m looking to collaborate on c++ and Java project
+- 👀 I’m interested in c++/python/computer graphics/algorithm
 - 📫 How to reach me: mtjtju@qq.com
 
 <!---
